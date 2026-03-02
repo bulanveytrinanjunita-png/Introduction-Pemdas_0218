@@ -8,4 +8,6 @@ void input()
 {
     cout << "masukan panjang : ";
     cin >> p;
+    cout << "Masukan Lebar : ";
+    cin >> l;
 }
