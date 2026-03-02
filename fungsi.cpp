@@ -11,3 +11,7 @@ void input()
     cout << "Masukan Lebar : ";
     cin >> l;
 }
+int liasPersegi()
+{
+    return p * l;
+}
