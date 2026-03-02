@@ -11,7 +11,11 @@ void input()
     cout << "Masukan Lebar : ";
     cin >> l;
 }
-int liasPersegi()
+int luasPersegi()
 {
     return p * l;
+}
+void output()
+{
+    cout << "Hasilnya : " << luasPersegi();
 }
